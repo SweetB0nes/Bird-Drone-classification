@@ -1,5 +1,7 @@
 # Bird-Drone-classification
 
+Use transfer learning
+
 Bird and drone classification using Resnet models.
 
 # Dataset 
